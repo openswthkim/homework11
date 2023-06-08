@@ -46,7 +46,7 @@ int main()
 
 	srand(time(NULL)); // 난수 생성
 
-
+        printf("[----- [Taehyung Kim] [2020039024] -----]");
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("                        Sorting & Hashing                       \n");
